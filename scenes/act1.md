@@ -208,7 +208,7 @@ b: Humain ! Écoute, on est en danger ! Le danger est...
 
 `bb({body:"squeeze"})`
 
-n4: (LAISSE _TON_ ANXIÉTÉ SORTIR ET JOUER ! CHOISIS CE QUI RESSEMBLE LE PLUS À CE QUE _TA_ PEUR TE DIT)
+n4: (LAISSE SORTIR _TON_ ANXIÉTÉ POUR JOUER ! CHOISIS CE QUI RESSEMBLE LE PLUS À CE QUE _TA_ PEUR TE DIT)
 
 (#act1_normal_choice)
 
