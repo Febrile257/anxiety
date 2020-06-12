@@ -194,7 +194,7 @@ n: TON TRAVAIL EST DE PROTÉGER TON HUMAIN·E DU *DANGER*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: EN FAIT, CE SANDWICH LÆ MET EN *DANGER*, JUSTE MAINTENANT, LÀ
+n: EN FAIT, CE SANDWICH LÆ MET EN *DANGER*, JUSTE LÀ, MAINTENANT
 
 n: VITE, PRÉVIENS-LÆ !
 
@@ -204,11 +204,11 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Humain ! Écoute, on est en danger ! Le danger est...
+b: Humain·e ! Écoute, on est en danger ! Le danger est...
 
 `bb({body:"squeeze"})`
 
-n4: (LAISSE _TON_ ANXIÉTÉ SORTIR ET JOUER ! CHOISIS CE QUI RESSEMBLE LE PLUS À CE QUE _TA_ PEUR TE DIT)
+n4: (LAISSE _TON_ ANXIÉTÉ SORTIR POUR JOUER ! CHOISIS CE QUI RESSEMBLE LE PLUS À CE QUE _TA_ PEUR TE DIT)
 
 (#act1_normal_choice)
 
@@ -392,7 +392,7 @@ hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 
 n: PROTÉGE TON HUMAIN·E
 
-n: DU MONDE. DES AUTRES. DE LUI-MÊME.
+n: DU MONDE. DES AUTRES. DE LUI·ELLE-MÊME.
 
 n: BONNE CHANCE
 
